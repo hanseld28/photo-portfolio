@@ -2244,7 +2244,7 @@ input, select, textarea {
 /* Intro */
 
 	#intro {
-		background: url("images/overlay.png"), url("../../images/river-and-rocks.jpg");
+		background: url("images/overlay.png"), url("../../images/developer-life.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, bottom center;
@@ -2260,7 +2260,7 @@ input, select, textarea {
 /* One */
 
 	#o-que-faco {
-		background: url("images/overlay.png"), url("../../images/volume-sounds.jpg");
+		background: url("images/overlay.png"), url("../../images/river-and-rocks.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
@@ -2269,7 +2269,7 @@ input, select, textarea {
 /* Two */
 
 	#quem-sou	 {
-		background: url("images/overlay.png"), url("../../images/amazing-cute-hamster.jpg");
+		background: url("images/overlay.png"), url("../../images/volume-sounds.jpg");
 		background-size: 256px 256px, cover;
 		background-attachment: fixed, fixed;
 		background-position: top left, center center;
